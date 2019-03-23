@@ -9,4 +9,4 @@ They are
 
 3>File Transfer Protocol(FTP):https://en.wikipedia.org/wiki/File_Transfer_Protocol
 
-Here Each Protocol have their on Server and Client Module
+Here each Protocol have their on Server and Client Module.So run coresponding client and server modules together
